@@ -48,6 +48,7 @@ params:
     twitter:
     twitch:
     whatsapp:
+    threads:
   
   # Comments settings
   comments:
