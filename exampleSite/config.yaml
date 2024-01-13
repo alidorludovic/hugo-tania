@@ -45,10 +45,11 @@ params:
     stack-overflow:
     steam:
     telegram:
+    threads:
     twitter:
     twitch:
     whatsapp:
-    threads:
+
   
   # Comments settings
   comments:
